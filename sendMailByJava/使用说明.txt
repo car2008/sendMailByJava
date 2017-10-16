@@ -1,0 +1,10 @@
+使用命令（安装jdk）：
+
+java -jar sendMailByJava_fat.jar 路径一 路径二 路径三
+
+注：路径一为保存“编号和邮箱”的excel,路径二为输出发送日志的路径，路径三为pdf报告保存路径
+
+例：
+java -jar sendMailByJava_fat.jar C:\\Users\\Administ
+rator\\Desktop\\mail\\test.xlsx C:\\Users\\Administrator\\Desktop\\mail C:\\User
+s\\Administrator\\Desktop\\mail\\芯健康-报告
